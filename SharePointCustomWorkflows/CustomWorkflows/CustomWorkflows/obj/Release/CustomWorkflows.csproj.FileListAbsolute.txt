@@ -1,0 +1,15 @@
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\bin\Release\CustomWorkflows.dll
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\bin\Release\CustomWorkflows.pdb
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\bin\Release\Microsoft.Xrm.Sdk.dll
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\bin\Release\Newtonsoft.Json.dll
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\bin\Release\Microsoft.Xrm.Sdk.xml
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\bin\Release\Microsoft.Xrm.Sdk.Workflow.xml
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\bin\Release\Newtonsoft.Json.xml
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\obj\Release\CustomWorkflows.csprojAssemblyReference.cache
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\obj\Release\CustomWorkflows.csproj.CoreCompileInputs.cache
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\obj\Release\CustomWorkflows.csproj.CopyComplete
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\obj\Release\CustomWorkflows.dll
+E:\Click2Protect\CustomWorkflows\CustomWorkflows\obj\Release\CustomWorkflows.pdb
